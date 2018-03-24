@@ -1,0 +1,190 @@
+<div id="chart"></div>
+
+<!-- <script data-require="d3@4.0.0" data-semver="4.0.0" src="https://d3js.org/d3.v4.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script> -->
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://d3js.org/d3-color.v1.min.js"></script>
+<script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://d3js.org/d3-time.v1.min.js"></script>
+<script src="https://d3js.org/d3-time-format.v2.min.js"></script>
+<script src="https://d3js.org/d3-scale.v2.min.js"></script>
+
+
+
+<script>
+var data = "https://raw.githubusercontent.com/eschlaf2/quantifiedSelf/master/logging.csv";
+
+var margin = {top: 0, right: 50, bottom: 30, left: 100},
+    width = document.getElementById("chart").clientWidth - margin.left - margin.right,
+    height = 300 - margin.top - margin.bottom;
+
+/* 
+ * value accessor - returns the value to encode for a given data object.
+ * scale - maps value to a visual display encoding, such as a pixel position.
+ * map function - maps from data value to display value
+ * axis - sets up axis
+ */ 
+
+// setup x 
+var timeParse = d3.timeFormat("%H:%M"),
+    xValue = function (d) { return new Date(d.Date)}
+    xScale = d3.time.scale()
+    xMap = function(d) { return xScale(xValue(d));}, // data -> display
+    xAxis = d3.svg.axis().scale(xScale).orient("top").tickSize("").tickFormat(d3.time.format("%_H"));
+      // .ticks(d3.timeHour)
+// setup y
+var yValue = function(d) { return d["Category"];}, // data -> value
+    yScale = d3.scale.ordinal()
+    yMap = function(d) { return yScale(yValue(d));}, // data -> display
+    yAxis = d3.svg.axis().scale(yScale).orient("left").tickSize("");
+
+// setup fill color
+// var colors = [];
+// for (i = 0; i < 9; i++) {colors.push(d3.interpolateCool(i/8))};
+var cValue = function(d) { return d.iColor;},
+    // cScale = d3.scale.ordinal()
+    // color = d3.scale.ordinal()
+    //         .range(colors),
+    color = d3.interpolateCool;
+
+// add the graph canvas to the body of the webpage
+var svg = d3.select("#chart").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+// add the tooltip area to the webpage
+var tooltip = d3.select("#chart").append("div")
+    .style("opacity", 0);
+
+var tooltipStyle = {
+  "background": "#eee",
+  "box-shadow": "0 0 5px #999999",
+  "color": "#333",
+  "font-size": "12px",
+  "left": "130px",
+  "padding": "10px",
+  "position": "absolute",
+  "text-align": "center",
+  "top": "95px",
+  "z-index": "10",
+  "display": "block",
+  "opacity": "0" 
+};
+
+for (var property in tooltipStyle) {
+  tooltip.style(property, tooltipStyle[property])
+}
+
+
+// load data
+d3.csv(data, function(data) {
+
+  var oneHour = 1000 * 60 * 60,
+      today = new Date() - 5 * oneHour,
+      dotsize = width/50 - 2;
+
+  data = data.filter(function(d) {return new Date(new Date(d.Date) - 5*oneHour).toDateString() === new Date(today).toDateString()})
+  console.log(data.length)
+  if (data.length > 0) {
+    
+  // console.log(yValue(data[0]))
+  
+  var items = function(dd) {return data.map(function(d) {data.filter(function(v) {return v.Category === d.Category}); return d.Item;}).indexOf(dd.Item)}
+  data.forEach(function(d) {d.iColor = items(d)})
+  data.forEach(function(d) {d.iColor = (data.filter(function(v) { return yValue(v) === yValue(d)}).map(function(dd) {return dd.Item})).indexOf(d.Item)})
+
+  data.forEach(function(d) {d.iSize = data.filter(function(v) {return (timeParse(xValue(v)) === timeParse(xValue(d))) && (yValue(v) === yValue(d))}).indexOf(d)})
+  var dom = data.map(function(d) {return d.Category})
+  
+  // don't want dots overlapping axis, so add in buffer to data domain
+  var xDom = [d3.min(data, xValue) - oneHour, d3.max(data, xValue).getTime() + oneHour],
+      categories = d3.nest()
+          .key(yValue)
+          .entries(data);
+  width = 2 * (dotsize+10) * (+d3.timeFormat('%H')(xDom[1]) - +d3.timeFormat('%H')(xDom[0]))
+  height = 2 * (dotsize + 10) * 1.2*categories.length
+  xScale.range([0, width-50])
+        .domain(xDom);
+  yScale.domain(dom)
+        .rangeBands([height-6, 40]), // value -> display
+
+
+  // x-axis
+  xAxis.ticks((+d3.timeFormat('%H')(xDom[1]) - +d3.timeFormat('%H')(xDom[0])))
+  svg.append("g")
+      // .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis)
+    .append("text")
+      // .attr("class", "label")
+      .attr("x", width - margin.right)
+      .attr("y", -3)
+      .style("text-anchor", "start")
+      .text("(H)");
+
+  // y-axis
+  svg.append("g")
+      // .attr("class", "y axis")
+      .call(yAxis)
+      .selectAll(".tick text").attr("dy", -1.5*dotsize)
+
+
+data.forEach(function(d) {d.Cval = cValue(d)})
+console.log('color', data)
+
+var dots = [],
+    limits = [+d3.timeFormat("%H")(xDom[0]), +d3.timeFormat("%H")(xDom[1])];
+console.log('limits', limits[1] - 5)
+var datetemp = new Date(new Date(d3.min(data, xValue)).setHours(5)).setMinutes(0);
+// console.log(datetemp + oneHour)
+
+for (var i = limits[0] - 4; i <= limits[1] - 5; i++) {
+  for (var j = 0; j < categories.length; j++) {
+    dots.push({"Date": new Date(datetemp + i * oneHour),
+               "Category": categories[j].key})
+  }
+}
+console.log("dots", dots)
+
+// gray dots
+svg.selectAll(".dot")
+    .data(dots)
+  .enter().append("circle")
+  .attr("r", "2px")
+  .attr("cx", xMap)
+  .attr("cy", yMap)
+  .style("fill", "gray")
+  .style("opacity", ".2")
+
+
+  // draw dots
+  svg.selectAll(".dot")
+      .data(data.sort(function(a, b) {return d3.descending(a.iSize, b.iSize)}))
+    .enter().append("circle")
+      .attr("class", "dot")
+      .attr("r", function(d) {return d.iSize * 3 + dotsize})
+      .attr("cx", xMap)
+      .attr("cy", yMap)
+      .style("opacity", ".7")
+      .style("fill", function(d) { return color(cValue(d) / d3.max(data, cValue) );}) 
+      .on("mouseover", function(d) {
+          tooltip.transition()
+               .duration(200)
+               .style("opacity", 1);
+          tooltip.html(d["Item"] + "<br/> (" + timeParse(new Date(d.Date)) + (d.Value != 1 ? ", " + d.Value + " " + d.unit : "") + (d.Note !== "" ? ", " + d.Note : "") + ")")
+               .style("left", (d3.event.layerX - 25) + "px")
+               .style("top", (d3.event.layerY + 10) + "px");
+      })
+      .on("mouseout", function(d) {
+          tooltip.transition()
+               .duration(500)
+               .style("opacity", 0);
+      });
+    }
+});
+
+
+</script>

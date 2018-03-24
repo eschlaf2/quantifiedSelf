@@ -1,0 +1,2948 @@
+{
+  "days" : [
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 19,
+      "pickupCount" : 4,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+
+      ],
+      "date" : "2018-03-21T00:00:00-04:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 162,
+      "pickupCount" : 28,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Workflow",
+          "onScreen" : 78
+        },
+        {
+          "appName" : "Mint",
+          "onScreen" : 14
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Calendar",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Dropbox",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Audible",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moves",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Starbucks",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-03-20T00:00:00-04:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 53,
+      "pickupCount" : 10,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Fitness",
+          "onScreen" : 21
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 18
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Clock",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Messenger",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Workflow",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-03-19T00:00:00-04:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 83,
+      "pickupCount" : 17,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+
+      ],
+      "date" : "2018-03-18T00:00:00-04:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 6,
+      "pickupCount" : 0,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "ATracker",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Clock",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Facebook",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Photos",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "WhatsApp",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-03-17T00:00:00-04:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 49,
+      "pickupCount" : 12,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+
+      ],
+      "date" : "2018-03-16T00:00:00-04:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 103,
+      "pickupCount" : 25,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Phone",
+          "onScreen" : 150
+        },
+        {
+          "appName" : "Fitness",
+          "onScreen" : 19
+        },
+        {
+          "appName" : "Workflow",
+          "onScreen" : 15
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Gyroscope",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Moves",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Uber",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Clock",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Fidelity",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Lyft",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-03-15T00:00:00-04:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 164,
+      "pickupCount" : 27,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Workflow",
+          "onScreen" : 72
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 16
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Day One",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Photos",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "CVS",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Dropbox",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Gboard",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Gyroscope",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Settings",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Starbucks",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-03-14T00:00:00-04:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 123,
+      "pickupCount" : 17,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Amazon",
+          "onScreen" : 33
+        },
+        {
+          "appName" : "Fitness",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "7 Minutes",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Camera",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "WhatsApp",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Health",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Settings",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-03-13T00:00:00-04:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 28,
+      "pickupCount" : 10,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+
+      ],
+      "date" : "2018-03-12T00:00:00-04:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 35,
+      "pickupCount" : 13,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+
+      ],
+      "date" : "2018-03-11T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 19,
+      "pickupCount" : 6,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+
+      ],
+      "date" : "2018-03-10T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 128,
+      "pickupCount" : 19,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+
+      ],
+      "date" : "2018-03-09T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 4,
+      "pickupCount" : 2,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+
+      ],
+      "date" : "2018-03-08T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 43,
+      "pickupCount" : 17,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "7 Minutes",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Fitness",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-03-07T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 123,
+      "pickupCount" : 38,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Fitness",
+          "onScreen" : 20
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 19
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 15
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 13
+        },
+        {
+          "appName" : "Mint",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "WhatsApp",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Chase",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Gyroscope",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Spotify",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Venmo",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-03-06T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 54,
+      "pickupCount" : 14,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 19
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 16
+        },
+        {
+          "appName" : "Moves",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Camera",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Gboard",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Gyroscope",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-03-05T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 114,
+      "pickupCount" : 23,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 72
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 20
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 15
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 14
+        },
+        {
+          "appName" : "Audible",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Amazon",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Lyft",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Camera",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-03-04T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 79,
+      "pickupCount" : 38,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 17
+        },
+        {
+          "appName" : "Threes Free",
+          "onScreen" : 16
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Clue",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Day One",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Health",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Photos",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Settings",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Workflow",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-03-03T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 98,
+      "pickupCount" : 26,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 22
+        },
+        {
+          "appName" : "Mint",
+          "onScreen" : 14
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Photos",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Clock",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Fidelity",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Venmo",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Chase",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Day One",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Dropbox",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Workflow",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-03-02T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 77,
+      "pickupCount" : 23,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 18
+        },
+        {
+          "appName" : "Dropbox",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Lyft",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Mint",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Workflow",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "PayPal",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Chase",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Gyroscope",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-03-01T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 15,
+      "pickupCount" : 7,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Dropbox",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-28T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 54,
+      "pickupCount" : 17,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Mail",
+          "onScreen" : 20
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Calendar",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Gyroscope",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "News",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Tile",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-27T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 56,
+      "pickupCount" : 26,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 23
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 23
+        },
+        {
+          "appName" : "Workflow",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "WhatsApp",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Photos",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Tile",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-26T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 9,
+      "pickupCount" : 8,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Coursera",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Clock",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Calendar",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "News",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Settings",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Weather",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-25T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 98,
+      "pickupCount" : 29,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 20
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 13
+        },
+        {
+          "appName" : "Clue",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Gyroscope",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Workflow",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Chase",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Photos",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Settings",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-24T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 86,
+      "pickupCount" : 21,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Mail",
+          "onScreen" : 13
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Working Copy",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Workflow",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Access",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Files",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Photos",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Dropbox",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Gboard",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Termius",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-23T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 72,
+      "pickupCount" : 11,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Messenger",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Calendar",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Amazon Music",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Settings",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-22T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 53,
+      "pickupCount" : 20,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Workflow",
+          "onScreen" : 28
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 27
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Messenger",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Coursera",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Dropbox",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Day One",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Calendar",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Evernote",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Photos",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "WhatsApp",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-21T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 344,
+      "pickupCount" : 27,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Workflow",
+          "onScreen" : 294
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 15
+        },
+        {
+          "appName" : "Spotify",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Dropbox",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "WhatsApp",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "SoundCloud",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Gboard",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-20T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 162,
+      "pickupCount" : 5,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Workflow",
+          "onScreen" : 66
+        },
+        {
+          "appName" : "Tracanhare",
+          "onScreen" : 16
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "News",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Gyroscope",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Health",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Evernote",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Dropbox",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-19T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 227,
+      "pickupCount" : 25,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Workflow",
+          "onScreen" : 72
+        },
+        {
+          "appName" : "Recently Deleted Apps",
+          "onScreen" : 35
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 18
+        },
+        {
+          "appName" : "Gyroscope",
+          "onScreen" : 17
+        },
+        {
+          "appName" : "KetoDiet",
+          "onScreen" : 16
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 14
+        },
+        {
+          "appName" : "Tracanhare",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Lastfm",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Health",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Spotify",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Settings",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Evernote",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Keeper",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moves",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-18T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 18,
+      "pickupCount" : 16,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Strides",
+          "onScreen" : 20
+        },
+        {
+          "appName" : "Gyroscope",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Tracanhare",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Settings",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Health",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Notes",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-17T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 116,
+      "pickupCount" : 22,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 42
+        },
+        {
+          "appName" : "Feedly",
+          "onScreen" : 41
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 24
+        },
+        {
+          "appName" : "Tracanhare",
+          "onScreen" : 21
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 18
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 13
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Dyrii",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Productive",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Strides",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Aetna Mobile",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Amazon",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Audible",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "IntervalTimer",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "WhatsApp",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-16T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 39,
+      "pickupCount" : 21,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 31
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Groupon",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Chase",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Settings",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Tracanhare",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Aetna Mobile",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Audible",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Clue",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Messenger",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Mint",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "SoundCloud",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-15T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 181,
+      "pickupCount" : 62,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 52
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 39
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 27
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "Coursera",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Messenger",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Chase",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Tracanhare",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Audible",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Aetna Mobile",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Mint",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Settings",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "SoundCloud",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Starbucks",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-14T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 82,
+      "pickupCount" : 27,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Phone",
+          "onScreen" : 50
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 16
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 14
+        },
+        {
+          "appName" : "Aetna Mobile",
+          "onScreen" : 13
+        },
+        {
+          "appName" : "Coursera",
+          "onScreen" : 13
+        },
+        {
+          "appName" : "IntervalTimer",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Audible",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Calendar",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "SoundCloud",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "WhatsApp",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-13T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 139,
+      "pickupCount" : 31,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 46
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 24
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "Phone",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Uber",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Settings",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Docs",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Clue",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Reminders",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Wallet",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-12T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 8,
+      "pickupCount" : 7,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Phone",
+          "onScreen" : 50
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Argus",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "7 Minutes",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-11T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 69,
+      "pickupCount" : 27,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 14
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 13
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Argus",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Audible",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-10T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 75,
+      "pickupCount" : 40,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Messages",
+          "onScreen" : 22
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 18
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 14
+        },
+        {
+          "appName" : "Amazon",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "SoundCloud",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-09T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 54,
+      "pickupCount" : 25,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "ATracker",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Venmo",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "WhatsApp",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Fidelity",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Camera",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Gboard",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Podcasts",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Safari",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Tracanhare",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-08T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 30,
+      "pickupCount" : 3,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "ATracker",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 6
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Facebook",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Venmo",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Calendar",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Contacts",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Tracanhare",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-07T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 39,
+      "pickupCount" : 19,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 9
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Google Maps",
+          "onScreen" : 3
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "SoundCloud",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-06T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 52,
+      "pickupCount" : 15,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Settings",
+          "onScreen" : 23
+        },
+        {
+          "appName" : "ATracker",
+          "onScreen" : 15
+        },
+        {
+          "appName" : "Tracanhare",
+          "onScreen" : 12
+        },
+        {
+          "appName" : "Home & Lock Screen",
+          "onScreen" : 11
+        },
+        {
+          "appName" : "Moment",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Amazon",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "Fabulous",
+          "onScreen" : 5
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Audible",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Clock",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Calendar",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 1
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 1
+        }
+      ],
+      "date" : "2018-02-05T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 33,
+      "pickupCount" : 0,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Boxed",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Amazon",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Sheets",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "WhatsApp",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Lyft",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "SoundCloud",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 0
+        }
+      ],
+      "date" : "2018-02-04T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 33,
+      "pickupCount" : 0,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Boxed",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Amazon",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Sheets",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "WhatsApp",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Lyft",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "SoundCloud",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 0
+        }
+      ],
+      "date" : "2018-02-03T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 33,
+      "pickupCount" : 0,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Boxed",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Amazon",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Sheets",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "WhatsApp",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Lyft",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "SoundCloud",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 0
+        }
+      ],
+      "date" : "2018-02-02T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 33,
+      "pickupCount" : 0,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Boxed",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Amazon",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Sheets",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "WhatsApp",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Lyft",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "SoundCloud",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 0
+        }
+      ],
+      "date" : "2018-02-01T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 33,
+      "pickupCount" : 0,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Boxed",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Amazon",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Sheets",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "WhatsApp",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Lyft",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "SoundCloud",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 0
+        }
+      ],
+      "date" : "2018-01-31T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 33,
+      "pickupCount" : 0,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Boxed",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Amazon",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Sheets",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "WhatsApp",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Lyft",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "SoundCloud",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 0
+        }
+      ],
+      "date" : "2018-01-30T00:00:00-05:00"
+    },
+    {
+      "sessions" : [
+
+      ],
+      "minuteCount" : 33,
+      "pickupCount" : 0,
+      "pickups" : [
+
+      ],
+      "appUsages" : [
+        {
+          "appName" : "Safari",
+          "onScreen" : 10
+        },
+        {
+          "appName" : "Messages",
+          "onScreen" : 8
+        },
+        {
+          "appName" : "Boxed",
+          "onScreen" : 7
+        },
+        {
+          "appName" : "Amazon",
+          "onScreen" : 4
+        },
+        {
+          "appName" : "Mail",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "OverDrive",
+          "onScreen" : 2
+        },
+        {
+          "appName" : "Sheets",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "WhatsApp",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "App Store",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Lyft",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "SoundCloud",
+          "onScreen" : 0
+        },
+        {
+          "appName" : "Pandora",
+          "onScreen" : 0
+        }
+      ],
+      "date" : "2018-01-29T00:00:00-05:00"
+    }
+  ]
+}
