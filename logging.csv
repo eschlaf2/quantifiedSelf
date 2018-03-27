@@ -460,3 +460,11 @@ Date,Item,Value,Label,unit,Note,Category,Color,Size
 2018-03-26T14:31:24-04:00,Butter,1,,,,Nutrition,3,0.5
 2018-03-26T16:18:44-04:00,Ketones,5,,mg/dL,,Health,3,0.125
 2018-03-26T17:13:03-04:00,Snack,1,,,,Nutrition,2,0.5
+2018-03-26T23:59:00-04:00,Meal,1,,,,Nutrition,1,0.5
+2018-03-27T01:05:16-04:00,Ketones,80,,mg/dL,,Health,3,2
+2018-03-27T01:06:35-04:00,Water,20,,ounces,,Health,1,1
+2018-03-27T09:17:35-04:00,Water,16,,ounces,,Health,1,0.8
+2018-03-27T09:27:48-04:00,Fiction,1,,,Audible, Audio,6,.5
+2018-03-27T11:52:34-04:00,Caffeine,180,,mg,,Health,2,1.3333333333333333333333333333333333333
+2018-03-27T11:52:48-04:00,Caffeine,180,,mg,,Health,2,1.3333333333333333333333333333333333333
+2018-03-27T13:02:24-04:00,Fiction,1,,,Audible, Audio,6,.5
