@@ -500,3 +500,18 @@ Date,Item,Value,Label,unit,Note,Category,Color,Size
 2018-03-29T13:20:33-04:00,Weight,141.6,,lb,,Health,4,3.3
 2018-03-29T13:29:47-04:00,Fiction,1,,,Audible, Audio,6,.5
 2018-03-29T13:32:49-04:00,Water,20,,ounces,,Health,1,1
+2018-03-29T20:21:35-04:00,Fiction,1,,,Audible, Audio,6,.5
+2018-03-29T22:06:19-04:00,Alcohol,1,,,,Nutrition,6,0.5
+2018-03-29T22:06:27-04:00,Alcohol,1,,,,Nutrition,6,0.5
+2018-03-29T22:06:31-04:00,Alcohol,1,,,,Nutrition,6,0.5
+2018-03-29T22:06:36-04:00,Alcohol,1,,,,Nutrition,6,0.5
+2018-03-29T22:06:41-04:00,Alcohol,1,,,,Nutrition,6,0.5
+2018-03-29T22:06:46-04:00,Fruit,1,,,,Nutrition,4,1
+2018-03-29T22:06:51-04:00,Butter,1,,,,Nutrition,3,0.5
+2018-03-29T22:06:58-04:00,Snack,1,,,,Nutrition,2,0.5
+2018-03-30T00:35:31-04:00,Fiction,1,,,Audible, Audio,6,.5
+2018-03-30T01:12:53-04:00,Water,16,,ounces,,Health,1,0.8
+2018-03-30T02:00:39-04:00,Fiction,1,,,Audible, Audio,6,.5
+2018-03-30T14:01:41-04:00,Butter,1,,,,Nutrition,3,0.5
+2018-03-30T14:01:58-04:00,Caffeine,180,,mg,,Health,2,1.3333333333333333333333333333333333333
+2018-03-30T14:02:05-04:00,Water,20,,ounces,,Health,1,1
