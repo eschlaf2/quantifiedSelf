@@ -516,3 +516,14 @@ Date,Item,Value,Label,unit,Note,Category,Color,Size
 2018-03-30T14:01:58-04:00,Caffeine,180,,mg,,Health,2,1.3333333333333333333333333333333333333
 2018-03-30T14:02:05-04:00,Water,20,,ounces,,Health,1,1
 2018-03-31T00:01:31-04:00,Fiction,1,,,Audible, Audio,6,.5
+2018-03-31T11:10:13-04:00,Water,20,,ounces,,Health,1,1
+2018-03-31T11:11:05-04:00,Sweets,1,,,,Nutrition,5,1.5
+2018-03-31T11:11:10-04:00,Sweets,1,,,,Nutrition,5,1.5
+2018-03-31T11:11:15-04:00,Butter,1,,,,Nutrition,3,0.5
+2018-03-31T11:11:21-04:00,Fruit,1,,,,Nutrition,4,1
+2018-03-31T11:11:26-04:00,Fruit,1,,,,Nutrition,4,1
+2018-03-31T11:11:37-04:00,Alcohol,1,,,,Nutrition,6,0.5
+2018-03-31T11:11:42-04:00,Alcohol,1,,,,Nutrition,6,0.5
+2018-03-31T11:11:48-04:00,Alcohol,1,,,,Nutrition,6,0.5
+2018-03-31T11:11:53-04:00,Alcohol,1,,,,Nutrition,6,0.5
+2018-03-31T11:17:40-04:00,Fiction,1,,,OverDrive, Audio,6,.5
